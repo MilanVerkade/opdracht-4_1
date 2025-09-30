@@ -3,13 +3,21 @@
         font-family: ftltlt;
         src: url(/ftltlt-webfont.woff2);
     }
+
+header{
+    height: 33.33vh;
+    background-image: ;
+}
+
 h2{
     font-size: 56px;
     color: #9000ff;
     font-weight: bold;
 }
 
-p{
+p:first-of-type{
+
+    font-weight: bold;
     color: #9000ff;
     font-size: 28px;
 }
